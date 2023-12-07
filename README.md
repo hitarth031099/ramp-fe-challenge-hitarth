@@ -151,7 +151,7 @@ _This bug has 2 wrong behaviors that can be fixed with the same solution. It's a
 
 ## Submission
 
-You will submit a ZIP file. It should contain a folder named `ramp-fe-challenge-solved` with the following file structure
+You will submit a ZIP file. It should contain a folder named `ramp-fe-challenge-hitarth` with the following file structure
 
 ```
 ramp-fe-challenge-solved
@@ -161,7 +161,7 @@ ramp-fe-challenge-solved
 └───src
 ```
 
-Once you finish your challenge, create a new folder called `ramp-fe-challenge-solved`, where you copy the following from the project you worked on:
+Once you finish your challenge, create a new folder called `ramp-fe-challenge-hitarth`, where you copy the following from the project you worked on:
 
 - `email.txt` _Required_: Replace your email on the only line of the file. Don't use any prefix or suffix, just your email.
 - `src` _Required_: Copy the `src` folder as it is. This folder should contain your updated version of the app. Don't worry about the rest of the app, we will deal with it.
@@ -181,10 +181,10 @@ dependency-3
 
 - Don't remove existing `data-testid` tags. Otherwise, your results will be invalidated.
 - Don't modify anything else other than the bugs. Otherwise, your results might be invalidated.
-- The folder that you will compress should be named `ramp-fe-challenge-solved`, otherwise your results will be invalidated.
+- The folder that you will compress should be named `ramp-fe-challenge-hitarth`, otherwise your results will be invalidated.
 - Remember to compress the folder, NOT the contents of the folder alone. The name of the final ZIP file is irrelevant.
 - You can use a command line zip command to compress your folder, or:
-  - **Mac**: In Finder, right click the folder (`ramp-fe-challenge-solved`) and click **Compress "ramp-fe-challenge-solved"**
-  - **Windows**: In the File Explorer, right click the folder (`ramp-fe-challenge-solved`), select **Send to**, and then select **Compressed (zipped) folder**.
+  - **Mac**: In Finder, right click the folder (`ramp-fe-challenge-hitarth`) and click **Compress "ramp-fe-challenge-solved"**
+  - **Windows**: In the File Explorer, right click the folder (`ramp-fe-challenge-hitarth`), select **Send to**, and then select **Compressed (zipped) folder**.
 - Include the generated ZIP file on your application.
 - Plagiarism is a serious offense and will result in disqualification from further consideration.
